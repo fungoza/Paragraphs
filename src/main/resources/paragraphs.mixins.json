@@ -2,9 +2,9 @@
   "required": true,
   "minVersion": "0.8",
   "package": "furnygo.paragraphs.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "MixinSharedConstants"
+    "MixinStringHelper"
   ],
   "injectors": {
     "defaultRequire": 1

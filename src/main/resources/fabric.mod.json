@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Paragraphs",
-  "description": "Mod that allows you to write paragraphs",
+  "description": "Mod that allows you to write section signs and other special characters in chat",
   "authors": [
     "FurnyGo"
   ],
@@ -26,8 +26,8 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
-    "fabric": "*",
-    "minecraft": ">=1.16"
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
   }
 }
